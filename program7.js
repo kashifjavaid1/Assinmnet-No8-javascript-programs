@@ -8,4 +8,4 @@ function program7(a) {
     console.log("User Enter a Alphabets=",a);
    }
 }
-program7()
+program7();
