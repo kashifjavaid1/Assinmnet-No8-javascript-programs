@@ -1,3 +1,4 @@
+// Write a js program to count total number of notes in given amount
 function program13(a,b,c,d,f) {
     var a=+50;
     var b=+40;
