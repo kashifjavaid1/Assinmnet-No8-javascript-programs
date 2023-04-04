@@ -6,7 +6,7 @@
 // Percentage >= 40% : Grade E ?
 // Percentage < 40% : Grade F ?
 function program19(Physics,Chemistry,Biology,Mathmatical,computer) {
-    // var a=+prompt("Enter a Physics Subject Number");
+    var a=+prompt("Enter a Physics Subject Number");
     // var b=+prompt("Enter a Chemistry Subject Number");
     // var c=+prompt("Enter a  Biology Subject Number");
     // var d=+prompt("Enter a Mathmatical Subject Number");
