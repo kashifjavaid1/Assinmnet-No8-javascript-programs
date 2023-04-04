@@ -11,4 +11,4 @@ function program9(a) {
     console.log("User Enter Special Character");
   }
 }
-program9()
+program9();
