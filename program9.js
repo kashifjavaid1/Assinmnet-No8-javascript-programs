@@ -1,3 +1,4 @@
+// Write a js program to input any character and check whether it is alphabet, digit or special character.
 function program9(a) {
   var user = prompt("User Enter any Alphabet Digit Special Character");
   if (user >= 0) {
