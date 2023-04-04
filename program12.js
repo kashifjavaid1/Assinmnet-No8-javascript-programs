@@ -1,3 +1,4 @@
+// Write a js program to input month number and print number of days in that month
 function month() {
     var month = +prompt("Enter a any Month Number");
     if (month == 1) {
