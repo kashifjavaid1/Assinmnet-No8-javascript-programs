@@ -3,7 +3,7 @@
 // Percentage >= 80% : Grade B?
 // Percentage >= 70% : Grade C?
 // Percentage >= 60% : Grade D ?
-// Percentage >= 40% : Grade E
+// Percentage >= 40% : Grade E ?
 // Percentage < 40% : Grade F
 function program19(Physics,Chemistry,Biology,Mathmatical,computer) {
     var a=+prompt("Enter a Physics Subject Number");
