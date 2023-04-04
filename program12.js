@@ -38,4 +38,4 @@ function month() {
         console.log("twelfth month   February  in  31 days");
     }
 }
-month()
+month();
