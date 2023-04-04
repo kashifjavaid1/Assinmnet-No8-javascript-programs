@@ -15,7 +15,7 @@ function program19(Physics,Chemistry,Biology,Mathmatical,computer) {
    var total=500;
    var per= marks/total*100;
    if (per>=90) {
-    console.log("Grade A=",marks);
+    console.log("Grade A=");
    }
    else if (per>=80) {
     console.log("Grage B=",marks);
