@@ -1,4 +1,4 @@
-
+//  Write a js program to find maximum between three numbers.
 console.log("maximum three Numbers=");
 function program2() {
     var a=+prompt("User Enter First Number");
