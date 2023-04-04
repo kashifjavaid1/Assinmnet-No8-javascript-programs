@@ -30,7 +30,7 @@ function program19(Physics,Chemistry,Biology,Mathmatical,computer) {
     console.log("Grage E=",marks);
    }
    else if (per<40) {
-    console.log("Grade F=",marks);
+    console.log("Grade F=");
    }
 
 
