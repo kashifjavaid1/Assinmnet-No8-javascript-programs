@@ -1,4 +1,4 @@
-
+//  Write a js program to check whether a number is negative, positive or zero.
 function program3(a) {
     var a=+prompt("User Enter a Number");
     if (a==0) {
