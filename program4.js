@@ -1,4 +1,4 @@
-function program3(a) {
+function program4(a) {
     var a=+prompt("Enter user a Number");
     
     if (a%5==0) {
@@ -11,4 +11,4 @@ function program3(a) {
         console.log("Not divided 5 and 11");
     }
 }
-program3()
+program4();
