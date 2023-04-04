@@ -1,3 +1,4 @@
+// . Write a js program to input week number and print week day.
 function program11(days) {
     var days=+prompt("Enter a Number in week");
     if (days==1 ) {
