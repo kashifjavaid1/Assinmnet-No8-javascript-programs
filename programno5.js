@@ -1,4 +1,4 @@
-
+//  Write a js program to check whether a number is even or odd.
 
 function abc(even,odd) {
     var evennum=+prompt("Enter Any Number");
