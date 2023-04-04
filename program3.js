@@ -11,4 +11,4 @@ function program3(a) {
         console.log("Number is Negative",a);
     }
 }
-program3()
+program3();
