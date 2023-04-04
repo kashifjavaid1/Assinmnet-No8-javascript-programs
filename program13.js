@@ -9,4 +9,4 @@ function program13(a,b,c,d,f) {
     console.log(a,b,c,d,e);
     console.log("Total ",result);
 }
-program13()
+program13();
