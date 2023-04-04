@@ -1,4 +1,4 @@
- 
+// . Write a js program to check whether a character is uppercase or lowercase alphabet.
  function program10(a) {
     var user=prompt("User Enter any Charachter");
     if (user == 'a' || user == 'b' || user == 'c' || user == 'd' || user == 'e' || user == 'f' || user == 'g' || user == 'h' || user == 'i' || user == 'j' || user == 'k' || user == 'l' || user == 'm' || user == 'n' || user == 'o' || user == "p" || user == 'q' || user == 'r' || user == 's' || user == 't' || user == 'u' || user == "v" || user == 'w' || user == 'x' || user == "y" || user == 'z')    {
