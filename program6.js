@@ -9,4 +9,4 @@
         console.log("Not Leap Year",a);
     }
  }
- program6()
+ program6();
