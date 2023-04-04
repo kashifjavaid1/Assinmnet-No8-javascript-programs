@@ -2,6 +2,7 @@
 // Percentage >= 90% : Grade A
 // Percentage >= 80% : Grade B
 // Percentage >= 70% : Grade C
+// Percentage >= 60% : Grade D
 function program19(Physics,Chemistry,Biology,Mathmatical,computer) {
     var a=+prompt("Enter a Physics Subject Number");
     var b=+prompt("Enter a Chemistry Subject Number");
