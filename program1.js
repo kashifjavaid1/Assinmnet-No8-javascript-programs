@@ -14,4 +14,4 @@ function program1(max, max1) {
 
     }
 }
-program1()
+program1();
