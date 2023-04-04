@@ -17,4 +17,4 @@ function program2() {
         console.log("Both Number are equal");
     }
 }
-program2()
+program2();
