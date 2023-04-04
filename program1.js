@@ -1,4 +1,4 @@
-
+// Write a js program to find maximum between two numbers.
 console.log("maximum two Numbers=");
 function program1(max, max1) {
     var a = +prompt("User Enter First Number ");
