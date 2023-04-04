@@ -24,7 +24,7 @@ function program19(Physics,Chemistry,Biology,Mathmatical,computer) {
     console.log("Grade C=",marks);
    }
    else if (per>=60) {
-    console.log("Grade D=",marks);
+    console.log("Grade D=");
    }
    else if (per>=40) {
     console.log("Grage E=",marks);
