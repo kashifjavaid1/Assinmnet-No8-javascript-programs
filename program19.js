@@ -18,7 +18,7 @@ function program19(Physics,Chemistry,Biology,Mathmatical,computer) {
     console.log("Grade A=",marks);
    }
    else if (per>=80) {
-    console.log("Grage B=",marks);
+    console.log("Grage B=");
    }
    else if (per>=70) {
     console.log("Grade C=",marks);
