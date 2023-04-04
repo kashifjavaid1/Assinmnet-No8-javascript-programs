@@ -12,5 +12,4 @@ function program4(a) {
         console.log("Not divided 5 and 11");
     }
 }
-program4
-();
+program4();
