@@ -12,7 +12,7 @@ function program18() {
     }
   }
   
-  program18();
+  program18()
   
   
   
