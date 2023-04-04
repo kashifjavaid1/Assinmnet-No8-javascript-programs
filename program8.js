@@ -8,4 +8,4 @@ function program8(a) {
         console.log("User Enter Consonant");
     }
 }
-program8()
+program8();
