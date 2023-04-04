@@ -1,3 +1,5 @@
+// Write a js program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+
 function program19(Physics,Chemistry,Biology,Mathmatical,computer) {
     var a=+prompt("Enter a Physics Subject Number");
     var b=+prompt("Enter a Chemistry Subject Number");
