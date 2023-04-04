@@ -26,4 +26,4 @@ function program11(days) {
         console.log(" Just seven days in week");
     }
 }
-program11()
+program11();
